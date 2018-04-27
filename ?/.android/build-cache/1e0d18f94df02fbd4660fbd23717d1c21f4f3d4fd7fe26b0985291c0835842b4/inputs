@@ -1,0 +1,8 @@
+COMMAND=PREDEX_LIBRARY
+FILE.path=/home/j.guzikowski/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar
+FILE.hash=8c62525a9bc5cff5633a96cb9b32fffeccaf41b8841aa87fc22607070dea9b8d
+BUILD_TOOLS_REVISION=26.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=false
+MIN_SDK_VERSION=19

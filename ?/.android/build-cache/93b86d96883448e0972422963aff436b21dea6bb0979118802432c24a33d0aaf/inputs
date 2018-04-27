@@ -1,0 +1,8 @@
+COMMAND=PREDEX_LIBRARY
+FILE.path=/home/j.guzikowski/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/8a94607f2b85ffe07e8bfa149b2f80d4/jars/classes.jar
+FILE.hash=3ed691f268b2553b581955f7fb106b9ed9324c04e3f4002e1332b557984c95eb
+BUILD_TOOLS_REVISION=26.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=false
+MIN_SDK_VERSION=19

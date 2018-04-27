@@ -1,0 +1,8 @@
+COMMAND=PREDEX_LIBRARY
+FILE.path=/home/j.guzikowski/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/7a38943d8e14cf86e1fa59d49d5d7db1/jars/classes.jar
+FILE.hash=dc583197016dcdf8510107c40ab55dc768a0fad4ccd14f4fd52f6d57ee6c721a
+BUILD_TOOLS_REVISION=26.0.2
+JUMBO_MODE=false
+OPTIMIZE=true
+MULTI_DEX=false
+MIN_SDK_VERSION=19

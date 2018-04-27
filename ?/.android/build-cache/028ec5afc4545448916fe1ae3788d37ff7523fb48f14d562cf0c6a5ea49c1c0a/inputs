@@ -1,0 +1,10 @@
+COMMAND=PREDEX_LIBRARY_TO_DEX_ARCHIVE
+FILE.path=/home/j.guzikowski/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/24.1-android/347a4cfc35ab0cfaf67f79a3b1c85aca96af42a/guava-24.1-android.jar
+FILE.hash=c48153bbf4ad3c2161544084af6cc2b718d9058355b86891412d6a5cc80e5d5b
+DX_VERSION=1.14
+JUMBO_MODE=true
+OPTIMIZE=true
+DEXER_TOOL=DX
+CACHE_KEY_VERSION=4
+MIN_SDK_VERSION=19
+IS_DEBUGGABLE=true
